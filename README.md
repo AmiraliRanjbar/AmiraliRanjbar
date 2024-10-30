@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @AmiraliRanjbar
 - 👀 I’m Web&App Developer | Frontend Developer
 - 🌱 I’m currently learning a New front-end content
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- IR-Mazandaran-Babol
+- 
+- 
 
 <!---
 AmiraliRanjbar/AmiraliRanjbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
